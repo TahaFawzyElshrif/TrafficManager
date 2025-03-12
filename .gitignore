@@ -4,3 +4,6 @@ try/
 
 # private
 *.env
+
+#temperoary remove
+traffic.db

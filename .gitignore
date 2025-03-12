@@ -1,3 +1,6 @@
+# not necessary to upload
+__pycache__/
 try/
 
+# private
 *.env
